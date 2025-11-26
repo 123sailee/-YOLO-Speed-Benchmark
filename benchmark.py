@@ -1,6 +1,6 @@
 """
 YOLO Speed Benchmark - Main Benchmarking Script
-Author: Sailee Shelar
+Author: Sailee Abhale
 Date: November 2024
 
 This script benchmarks YOLOv5, YOLOv8, and YOLOv11 models for speed and accuracy.

@@ -148,7 +148,7 @@ Preliminary testing suggests:
 
 ## 👤 Author
 
-**Sailee Shelar**
+**Sailee Abhale**
 - GitHub: [@123sailee](https://github.com/123sailee)
 - Email: sailee2303@gmail.com
 - Institution: Sanjivani University, Kopargaon
