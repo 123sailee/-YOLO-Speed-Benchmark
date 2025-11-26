@@ -1,0 +1,3 @@
+model,fps,latency_ms,model_size_mb,device
+yolov8n,6.11,163.74,6.25,cpu
+yolov8s,2.53,395.58,21.54,cpu
